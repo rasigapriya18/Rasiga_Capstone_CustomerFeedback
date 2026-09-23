@@ -60,3 +60,6 @@ Complete final testing, documentation, and prepare the project for presentation.
 ## Expected Outcome
 
 The final application will provide a simple dashboard where businesses can manage customer feedback and identify recurring concerns and service improvement opportunities.
+## Project Status
+
+Customer Feedback Management and Insights Dashboard.
